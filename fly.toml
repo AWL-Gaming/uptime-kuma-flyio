@@ -9,7 +9,7 @@ primary_region = 'ams'
 [build]
 
 [[mounts]]
-  source = 'data'
+  source = '/app/data'
   destination = '/data'
 
 [http_service]
